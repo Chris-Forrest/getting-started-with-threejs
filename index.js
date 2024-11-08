@@ -24,7 +24,7 @@ function animate() {
 
 }
 */
-
+/*
 const w = window.innerWidth;
 const h = window.innerHeight;
 const renderer = new THREE.WebGLRenderer({ antialias: true});
@@ -44,3 +44,4 @@ const scene = new THREE.Scene();
 
 
 renderer.render(scene, camera);
+*/
